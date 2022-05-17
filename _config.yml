@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Frido Friedemann"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/buddha.png"
   bio    : "theoretically physicist & mathematican, and more."
   location         : "göttingham"
   links:
