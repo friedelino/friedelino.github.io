@@ -59,8 +59,8 @@ plugins:
 author:
   name   : "Frido Friedemann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "wannabe mathematician & theoretical physicist + climber, carpenter... "
-  location         : "Göttingham"
+  bio    : "theoretically physicist & mathematican, and more."
+  location         : "göttingham"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
